@@ -8,9 +8,6 @@ separability dataset
 - Browser (yang bisa membuka file .ipynb)
 - Google Colab (dibuka melalui Browser)
 
-* File seharusnya dapat dibuka di Jupyter Notebook juga, tetapi diputuskan
-untuk tidak saya tulis "How to Run" nya.
-
 ## How to Run
 1. Buka browser
 2. Masuk ke Google Colab -> https://colab.research.google.com/
