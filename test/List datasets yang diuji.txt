@@ -1,0 +1,4 @@
+List Datasets yang diuji:
+- datasets.load_iris()
+- datasets.load_wine()
+- datasets.load_breast_cancer()
